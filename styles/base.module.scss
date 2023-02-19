@@ -1,0 +1,10 @@
+@import './variables.module.scss';
+
+.root {
+
+  html,
+  body {
+    color: $red;
+    font-size: 14px;
+  }
+}
